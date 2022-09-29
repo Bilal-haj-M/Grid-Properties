@@ -1,0 +1,45 @@
+body {
+  width: 100em;
+  margin: 0 auto;
+}
+
+section {
+  padding: 2em;
+  margin: 1em;
+}
+
+#green {
+  background-color: #8ffda7;
+
+}
+
+#orange {
+  background-color: #ffc788;
+}
+
+#yellow {
+  background-color: #ffff92;
+}
+
+#red {
+  background-color: #ff919c;
+}
+
+#blue {
+  background-color: #98d2ff;
+}
+
+ul {
+  padding: 3;
+ display: flex;
+ flex-wrap: wrap;
+ height: 200px;
+ width : 200px;
+}
+
+li {
+  background-color: white;
+padding: 0.9rem;
+display : flex;
+  margin: 1.7rem;
+}
